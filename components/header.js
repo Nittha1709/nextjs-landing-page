@@ -1,5 +1,5 @@
 import Image from "next/image"
-import Logo from "../../src/img/logo.svg"
+import Logo from "@/src/img/logo.svg"
 
 export default function Navbar() {
     return (
