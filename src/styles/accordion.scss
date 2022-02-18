@@ -1,0 +1,10 @@
+.accordion-section{
+    @apply 
+    outline-none;  
+    &:first-child{
+        @apply mt-10
+    }
+}
+.accordion-body{
+    border-top: 1px solid #E5ECF4;
+}

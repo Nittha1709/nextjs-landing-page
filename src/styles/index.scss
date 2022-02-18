@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+@import "~tailwindcss/base";
+@import "~tailwindcss/components";
+@import "~tailwindcss/utilities";
+
+@import "../styles/layout.scss";
+@import "../styles/banner.scss";
+@import "../styles/navbar.scss";
+@import "../styles/button.scss";
+@import "../styles/card.scss";
+@import "../styles/accordion.scss";
+@import "../styles/color-icon.scss";
+
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+

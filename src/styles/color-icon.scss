@@ -1,0 +1,52 @@
+
+.bg-icon-{
+    &null{
+        @apply bg-slate-300 text-gray-600
+    }
+    &primary{
+        color: rgba(37, 99, 255, 1);
+        background-color: rgba(37, 99, 255, 9%);
+    }
+    &green{
+        @apply text-green;
+        background-color:rgba(228, 255, 238, 1);
+        
+    }
+    &pink{
+        @apply text-pink;
+        background-color: rgba(255, 67, 97, 9%);
+    }
+    &sky{
+        @apply text-sky;
+        background-color: rgba(234, 249, 255, 1);
+    }
+    &amber{
+        @apply text-amber;
+        background-color: rgba(255, 246, 211, 1);
+    }
+    &purple{
+        @apply text-purple;
+        background-color: rgba(244, 244, 255, 1);
+    }
+    &orange{
+        @apply text-orange;
+        background-color: rgba(233, 116, 37, 9%);
+    }
+    &white{
+        @apply text-primary bg-white;
+    }
+}
+.b-icon-{
+    &undefined{
+        @apply w-16 h-16 rounded-3xl;
+    }
+    &lg{
+        @apply w-20 h-20 rounded-3xl;
+    }
+    &md{
+        @apply w-16 h-16 rounded-2xl;
+    }
+    &sm{
+        @apply w-12 h-12 rounded-xl;
+    }
+}
