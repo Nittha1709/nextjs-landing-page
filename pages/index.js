@@ -1,8 +1,8 @@
 import Head from "next/head";
-import Navbar from "@/components/header"
-import Footer from "@/components/footer";
-import Banner from "@/components/banner";
-import LayoutSpan from "@/components/layout";
+// import Navbar from "@/components/header"
+// import Footer from "@/components/footer";
+// import Banner from "@/components/banner";
+// import LayoutSpan from "@/components/layout";
 import Quality from "@/components/quality";
 import CoreFeatures from "@/components/core-features";
 import FeatureApp from "@/components/feature-app";
@@ -21,20 +21,20 @@ export default function Home() {
         <meta name="description" content="basic nextJs figma template by startuplanding" />
         <link rel="icon" href="/favicon.svg" />
       </Head>
-      <Banner>
+      {/* <Banner>
         <Navbar />
-      </Banner>
+      </Banner> */}
       <Quality />
-      <LayoutSpan>
+      {/* <LayoutSpan>
         <CoreFeatures />
         <FeatureApp />
-      </LayoutSpan>
+      </LayoutSpan> */}
       <HowItWorks />
       <Connect />
       <Payment />
       <Package />
       <Question />
-      <Footer />
+      {/* <Footer /> */}
 
     </div>
   )
