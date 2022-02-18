@@ -1,3 +1,9 @@
+Package Installed
+
+fontawesome 5: https://fontawesome.com/v5/docs/web/use-with/react
+<br />
+tailwindcss 3: https://tailwindcss.com/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
