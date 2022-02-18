@@ -22,7 +22,7 @@ export default function Home() {
         <meta property="og:description" content="basic nextJs figma template by startuplanding" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://nextjs-landing-page-zeta.vercel.app" />
-        <meta property="og:image" content="/og-img.png" />
+        <meta property="og:image" content="/https://og-image.vercel.app/Hello%20World.png" />
         <link rel="icon" href="/favicon.svg" />
 
 
